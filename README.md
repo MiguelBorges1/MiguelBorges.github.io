@@ -1,2 +1,2 @@
-# Miguelorges.github.io
+# MiguelBorges.github.io
 My personnal website
