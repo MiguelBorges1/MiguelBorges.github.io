@@ -21,7 +21,7 @@ I'm currently learning part-time:</br>
 <!-- <b><h2>My Projects</h2></b>
 -->
 
-🏆  I've recently obtained the CCNA and I'm looking for an opportunity as a <ins>Junior or entry-level Network Engineer or Administrator.</ins></br>
+🏆  I've recently obtained the CCNA and I'm looking for an opportunity as a <ins>Junior Network Engineer/Administrator.</ins></br>
   
 📫 How to reach me :</br>
 miguel.borges@protonmail.com</br>
