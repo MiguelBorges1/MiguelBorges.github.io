@@ -1,3 +1,5 @@
+
+<!--
 <b><h2>👋  Hello, my name is Miguel</h2></b>
 
 I'm a Telecommunications Professional turning into a Network Engineer 📱  💻 </br>
