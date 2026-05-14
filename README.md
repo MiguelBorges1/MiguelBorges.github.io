@@ -1,4 +1,4 @@
-My static website on Git Pages: </br>
+## My static website on Git Pages: </br>
 # https://miguelborges1.github.io/MiguelBorges.github.io/ 
 
 This is my digital portfolio, a non-developer portfolio-website.
@@ -9,8 +9,6 @@ Here you'll find 4 sections:
 - Contacts - self-explanatoty
 
 Enjoy, and feel free to ask questions, I'll reply as-soon-as-possible.
-
-BR,
 
 *Miguel*
 
@@ -62,8 +60,6 @@ Best Regards,</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelborges1&label=Profile%20views&color=0e75b6&style=flat" alt="miguelborges1" /> </p>
 -->
 <!-- <a href="https://www.credly.com/users/miguel-borges" target="_blank" rel="noreferrer" </a> -->
-</p>
-
 <!--
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
