@@ -5,8 +5,8 @@ This is my digital portfolio, a non-developer portfolio-website.
 Here you'll find 4 sections:
 - About - who am I
 - Learning Journey - Where I'm heading to
-- Experience - What I do
-- Projects - What I'm currently working on
+- Projects - How I'm getting there
+- Experience - What I already do
 - Contacts - How to reach me
 
 Enjoy, and feel free to ask questions, I'll be glad to reply as-soon-as-possible.
