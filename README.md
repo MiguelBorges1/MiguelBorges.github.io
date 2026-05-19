@@ -1,8 +1,8 @@
 ## My static website on Git Pages: </br>
 # https://miguelborges1.github.io/MiguelBorges.github.io/ 
 
-This is my digital portfolio, a non-developer portfolio-website.
-Here you'll find 4 sections:
+This is my digital portfolio - a non-developer, simple, static, portfolio-website.
+Here you'll find 5 sections:
 - About - who am I
 - Learning Journey - Where I'm heading to
 - Projects - How I'm getting there
